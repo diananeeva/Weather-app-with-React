@@ -16,7 +16,7 @@ This is a simple weather application built with **React**. The application allow
 
 To understand how the application works:
 
-1. **Frontend**: Review the `Weather.js` file to see how the React component handles state management, user input, and API requests using Axios.
+1. **Frontend**: Review the `Weather.jsx` file to see how the React component handles state management, user input, and API requests using Axios.
 
 ## Technologies
 
